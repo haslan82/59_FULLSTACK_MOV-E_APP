@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Yenilmezler: Ultron Çağı",
+    "year": "2015",
+    "genre": [
+      "Aksiyon",
+      "Bilim Kurgu",
+      "Macera"
+    ],
+    "rating": "3.3",
+    "description": "Süper kahramanlar, dünyayı tehdit eden yapay zeka Ultron'a karşı güçlerini birleştiriyor.",
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Mark Ruffalo"
+    ],
+    "duration": "2s 21dk",
+    "language": "ingilizce",
+    "id": "1bc38e79-4e59-4b28-a1f6-d9692920c551"
+  },
+  
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "genre": [
+      "Drama",
+      "Crime"
+    ],
+    "rating": "9.3",
+    "description": "Andy Dufresne, haksız yere mahkemeye atıldığı Shawshank hapishanesinde, umudunu kaybetmeden özgürlüğe olan inancını korur.",
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "duration": "2s 22dk",
+    "language": "İngilizce",
+    "id": "1e4a10a1-1234-4a5c-9a12-e9b0a843f671"
+  },
+  {
+    "title": "The Godfather",
+    "year": "1972",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.2",
+    "description": "Corleone ailesi, Amerika’da yeraltı suç dünyasında güç, sadakat ve ihanetle örülü bir miras sürdürür.",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "duration": "2s 55dk",
+    "language": "İngilizce",
+    "id": "7c8f38d2-5678-4c45-a2ef-f1234f6ddb12"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.0",
+    "description": "Batman, Gotham'ı kaosa sürükleyen Joker ile amansız bir mücadeleye girer.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "duration": "2s 32dk",
+    "language": "İngilizce",
+    "id": "5d9a77b8-2222-4f55-bbfd-31a2e88f6c33"
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": "8.8",
+    "description": "Bir ekip, insanların rüyalarına girerek fikir çalmayı değil, fikir yerleştirmeyi hedefler.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "duration": "2s 28dk",
+    "language": "İngilizce",
+    "id": "9b2b15c4-3333-4a44-8f77-6c5d2f3b2d44"
+  },
+  {
+    "title": "Parasite",
+    "year": "2019",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "Dark Comedy"
+    ],
+    "rating": "8.6",
+    "description": "Kendi içinde çatışmalar yaşayan iki farklı sınıftaki ailenin yolları, beklenmedik bir şekilde kesişir.",
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "duration": "2s 12dk",
+    "language": "Korece",
+    "id": "2a1c9d7b-4444-4d55-9e4f-8d9e6b7a5a55"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "rating": "8.6",
+    "description": "Mankind’s survival relies on a team of explorers traveling through a wormhole in space in an attempt to ensure humanity’s future.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "duration": "2s 49dk",
+    "language": "İngilizce",
+    "id": "3e7f99d1-5555-4b66-b123-1d3c7a9b6e66"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": "8.9",
+    "description": "Frodo ve Sam, Orta Dünya’yı kurtarmak için Kader Dağı’na tehlikeli bir yolculuğa çıkar.",
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "duration": "3s 21dk",
+    "language": "İngilizce",
+    "id": "4c8a22e3-6666-4a77-a9b9-0e1b3c4d7b77"
+  },
+  {
+    "title": "Fight Club",
+    "year": "1999",
+    "genre": [
+      "Drama"
+    ],
+    "rating": "8.8",
+    "description": "Bir adam ve karizmatik bir satıcı yeraltı dövüş kulübü kurar ve kimlik, özgürlük ve tüketim üzerine derin sorgulamalara girer.",
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton"
+    ],
+    "duration": "2s 19dk",
+    "language": "İngilizce",
+    "id": "8d9c44f5-7777-4b88-babc-2f4e5d6f8a88"
+  },
+  {
+    "title": "üçüncü film",
+    "year": "2025",
+    "genre": [
+      "Aksiyon",
+      "Korku"
+    ],
+    "rating": "8.3",
+    "description": "Süper kahramanlar, dünyayı tehdit eden yapay zeka Ultron'a karşı güçlerini birleştiriyor.",
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Mark Ruffalo"
+    ],
+    "duration": "2s 21dk",
+    "language": "Türkçe",
+    "id": "ac037161-2416-4ed5-b00e-a62ab6c3c573"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": "8.8",
+    "description": "Forrest Gump’ın sıradışı hayatı, basit ama derin bakışlarla hayata dair büyük dersler verir.",
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright"
+    ],
+    "duration": "2s 22dk",
+    "language": "İngilizce",
+    "id": "6f8e55d6-8888-4c99-bcde-3a2f8d7e9c99"
+  },
+  {
+    "title": "The Matrix",
+    "year": "1999",
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "rating": "8.7",
+    "description": "Neo, gerçekliğin gerçek doğasını keşfeder ve insanlığı makine egemenliğinden kurtarmak için savaşır.",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "duration": "2s 16dk",
+    "language": "İngilizce",
+    "id": "2b9a66d7-9999-4d11-abcd-4c3d5e2f0a99"
+  },
+  {
+    "title": "Whiplash",
+    "year": "2014",
+    "genre": [
+      "Drama",
+      "Music"
+    ],
+    "rating": "8.5",
+    "description": "Genç bir baterist, acımasız bir eğitmenle rekabet, tutku ve mükemmeliyetçiliğin sınırlarını zorlayan bir mücadeleye girişir.",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons"
+    ],
+    "duration": "1s 47dk",
+    "language": "İngilizce",
+    "id": "a12c4f77-11ab-4f01-bf77-c29aab90cd11"
+  },
+  {
+    "title": "The Prestige",
+    "year": "2006",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating": "8.5",
+    "description": "İki sihirbaz arasındaki rekabet, zamanla saplantıya ve tehlikeli bir güç savaşına dönüşür.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "duration": "2s 10dk",
+    "language": "İngilizce",
+    "id": "bb53f921-829c-4af3-9efa-c4291bc44b73"
+  },
+  {
+    "title": "Gladiator",
+    "year": "2000",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": "8.5",
+    "description": "İhanete uğrayan bir general, arenada efsanevi bir gladyatöre dönüşerek intikam için savaşır.",
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix"
+    ],
+    "duration": "2s 35dk",
+    "language": "İngilizce",
+    "id": "c93edf3b-77af-4088-a32e-e2bd9a5620ed"
+  },
+  {
+    "title": "Joker",
+    "year": "2019",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": "8.4",
+    "description": "Toplum tarafından dışlanan Arthur Fleck'in psikolojik çöküşü, onu kaosun sembolü Joker'e dönüştürür.",
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro"
+    ],
+    "duration": "2s 2dk",
+    "language": "İngilizce",
+    "id": "e118bd8f-a24c-4c0c-b63d-316fa6d1eb77"
+  },
+  {
+    "title": "Spirited Away",
+    "year": "2001",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": "8.6",
+    "description": "Küçük bir kız, ruhlar dünyasında ailesini kurtarmak için büyülü bir yolculuğa çıkar.",
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino"
+    ],
+    "duration": "2s 5dk",
+    "language": "Japonca",
+    "id": "f4490d6d-0b32-4054-8dc0-0c985f2e119a"
+  },
+  {
+    "title": "The Social Network",
+    "year": "2010",
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "rating": "7.8",
+    "description": "Facebook'un kuruluş hikayesi, deha ve ihaneti iç içe geçiren yoğun bir dramatik anlatımla sunulur.",
+    "director": "David Fincher",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "duration": "2s",
+    "language": "İngilizce",
+    "id": "d3af9db1-8be3-4628-ad3a-9372e42d600f"
+  },
+  {
+    "title": "Dune: Part One",
+    "year": "2021",
+    "genre": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": "8.0",
+    "description": "Galaksinin en değerli kaynağının kontrolü için aileler ve imparatorluklar arasındaki savaşta genç Paul Atreides kaderiyle yüzleşir.",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "duration": "2s 35dk",
+    "language": "İngilizce",
+    "id": "d92c344e-6892-4fda-a159-3fe2b917a546"
+  },
+  {
+    "title": "La La Land",
+    "year": "2016",
+    "genre": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "rating": "8.0",
+    "description": "Los Angeles'ta aşk ve hayaller arasında sıkışan iki sanatçının hikayesi müzikal bir atmosferde anlatılır.",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone"
+    ],
+    "duration": "2s 8dk",
+    "language": "İngilizce",
+    "id": "b57b20d4-c183-4f69-a931-c161c6b4c1bf"
+  },
+  {
+    "title": "Coco",
+    "year": "2017",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "rating": "8.4",
+    "description": "Müzik tutkusu yasaklanan Miguel, ölüler diyarında aile bağlarının gerçek anlamını keşfeder.",
+    "director": "Lee Unkrich",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal"
+    ],
+    "duration": "1s 45dk",
+    "language": "İngilizce",
+    "id": "a4c77b31-d01a-4783-91b1-381d4515f1f8"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": "2015",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": "8.1",
+    "description": "Kıyamet sonrası çöllerde bir kaçış yolculuğu, hem hayatta kalma hem de özgürlük mücadelesine dönüşür.",
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron"
+    ],
+    "duration": "2s",
+    "language": "İngilizce",
+    "id": "cc47a623-87be-4295-9da5-9ad9c1745625"
+  },
+  {
+    "id": "1764355647781",
+    "title": "The Polat Alemdar",
+    "year": "1972",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.2",
+    "description": "Corleone ailesi, Amerika’da yeraltı suç dünyasında güç, sadakat ve ihanetle örülü bir miras sürdürür.",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "duration": "2s 55dk",
+    "language": "İngilizce"
+  }
+]

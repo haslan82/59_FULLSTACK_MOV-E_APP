@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-movie-backend",
+  "version": "1.0.0",
+  "description": "FullStack movie projesinin backend kısmıdır",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "haslan82"
+  },
+  "keywords": [
+    "fullstack",
+    "frontend",
+    "backend"
+  ],
+  "author": "haslan82",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
