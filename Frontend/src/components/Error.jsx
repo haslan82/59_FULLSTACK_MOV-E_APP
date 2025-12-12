@@ -29,4 +29,5 @@ const Error = ({info, refetch}) => {
   )
 }
 
+
 export default Error
