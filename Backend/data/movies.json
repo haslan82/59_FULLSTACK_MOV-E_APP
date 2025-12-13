@@ -19,7 +19,6 @@
     "language": "ingilizce",
     "id": "1bc38e79-4e59-4b28-a1f6-d9692920c551"
   },
-  
   {
     "title": "The Shawshank Redemption",
     "year": "1994",
@@ -429,6 +428,25 @@
       "Drama"
     ],
     "rating": "9.2",
+    "description": "Corleone ailesi, Amerika’da yeraltı suç dünyasında güç, sadakat ve ihanetle örülü bir miras sürdürür.",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "duration": "2s 55dk",
+    "language": "İngilizce"
+  },
+  {
+    "id": "1765561806771",
+    "title": "yepyeni film",
+    "year": "1972",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.9",
     "description": "Corleone ailesi, Amerika’da yeraltı suç dünyasında güç, sadakat ve ihanetle örülü bir miras sürdürür.",
     "director": "Francis Ford Coppola",
     "cast": [
