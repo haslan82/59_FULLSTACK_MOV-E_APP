@@ -15,7 +15,6 @@ const InputField = ({ label, type="text", name, placeholder,min,max }) => {
         min={min}
         max={max}
         placeholder={"  "}
-       
         
       />
 <label htmlFor={name} className="absolute  text-sm text-gray-500
