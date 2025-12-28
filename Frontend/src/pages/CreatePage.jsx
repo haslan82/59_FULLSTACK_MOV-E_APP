@@ -42,8 +42,9 @@ const CreatePage = () => {
       console.log("Film oluşturulurken hata oluştu", err);
       
       //toast.error(error.response.data.message);
-
-       toast.error(err.response.data.message || "Film oluşturulurken bir hata oluştu.");
+//! express giriş 1:23 dakika (Backend deslerinde)
+       // toast.error(err.response.data.message || "Film oluşturulurken bir hata oluştu." );
+ toast.error(err.response ? err.response.data.message : err.message || "Film oluşturulurken bir hata oluştu." );
     })
   }
 

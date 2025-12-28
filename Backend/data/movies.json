@@ -830,22 +830,6 @@
     "language": "tt"
   },
   {
-    "id": "1766935389172",
-    "title": "xx",
-    "description": "xx",
-    "rating": "2",
-    "year": "2022",
-    "director": "xx",
-    "duration": "22",
-    "cast": [
-      "2"
-    ],
-    "genre": [
-      "x"
-    ],
-    "language": "x"
-  },
-  {
     "id": "1766935444433",
     "title": "xx1",
     "description": "xx",
@@ -940,22 +924,6 @@
       "1"
     ],
     "language": "1"
-  },
-  {
-    "id": "1766935992578",
-    "title": "şimdi",
-    "description": "oldu",
-    "rating": "10",
-    "year": "2010",
-    "director": "ben",
-    "duration": "110",
-    "cast": [
-      "sen"
-    ],
-    "genre": [
-      "komedi"
-    ],
-    "language": "türkçe"
   },
   {
     "id": "1766937383110",
