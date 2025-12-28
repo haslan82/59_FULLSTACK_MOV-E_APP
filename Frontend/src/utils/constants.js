@@ -11,4 +11,5 @@ export const inputs = [
     {name:"duration", label:"Süre (dakika)", type:"number", placeholder:"Film süresini girin"},
     {name:"cast", label:"Oyuncular (, ile ayırınız)", type:"text", placeholder:"Başrol oyuncularını girin"},
     {name:"genre", label:"Tür (, ile ayırınız)", type:"text", placeholder:"Film türünü girin"},
+    {name:"language", label:"Dil", type:"text", placeholder:"Film dilini girin"},
 ]

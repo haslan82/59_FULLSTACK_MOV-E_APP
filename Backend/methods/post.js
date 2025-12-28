@@ -45,7 +45,7 @@ const postRequest = async (req, res) => {
         if (
             eksikKeys.length > 0
         ) {
-            res.writeHead(400);
+            res.writeHead(404);
             return res.end(JSON.stringify({
                 success: false,
                 // message: `${eksikKey} alanı eksik bırakılamaz`
@@ -96,7 +96,8 @@ const postRequest = async (req, res) => {
         res.end(JSON.stringify(
             {
                 success: true,
-                message: `${newMovie.title} adlı film başarıyla eklendi.`
+                message: `${newMovie.title} adlı film başarıyla eklendi.`,
+                data: newMovie
             }));
 
         return;

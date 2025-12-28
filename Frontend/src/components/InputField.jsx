@@ -1,6 +1,6 @@
 import React from 'react'
 
-const InputField = ({ label, type="text", name, placeholder,min,max }) => {
+const InputField = ({ label, type="text", name,min,max }) => {
   return (
     <div className='w-full relative'>
 
