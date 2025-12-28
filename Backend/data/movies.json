@@ -456,5 +456,61 @@
     ],
     "duration": "2s 55dk",
     "language": "İngilizce"
+  },
+  {
+    "id": "1766061532283",
+    "title": "yepyeni film1",
+    "year": "1972",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.9",
+    "description": "Corleone ailesi, Amerika’da yeraltı suç dünyasında güç, sadakat ve ihanetle örülü bir miras sürdürür.",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "duration": "2s 55dk",
+    "language": "İngilizce"
+  },
+  {
+    "id": "1766917367711",
+    "title": "yeni film",
+    "description": "güzel",
+    "rating": "8",
+    "year": "2000",
+    "director": "hshtrsths",
+    "duration": "44",
+    "cast": [
+      "rgrgar",
+      "hrtthrt",
+      "habnn",
+      "ah"
+    ],
+    "genre": [
+      "rehr",
+      "nm",
+      "dyyd"
+    ],
+    "language": "ingilizce"
+  },
+  {
+    "id": "1766919068726",
+    "title": "rege",
+    "description": "eebqbt",
+    "rating": "4",
+    "year": "2025",
+    "director": "rra",
+    "duration": "44",
+    "cast": [
+      "g"
+    ],
+    "genre": [
+      "RG"
+    ],
+    "language": "KJMG"
   }
 ]
